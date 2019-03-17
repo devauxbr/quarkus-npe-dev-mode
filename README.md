@@ -1,7 +1,7 @@
 # Quarkus NPE in dev-mode
 
 This project aims to demonstrate a NullPointerException bug that happens in dev mode when a ["source" is missing in 
-the recompilation diagnostics]()
+the recompilation diagnostics](https://github.com/quarkusio/quarkus/pull/1541)
 
 This project was generated using the [quarkus maven plugin](https://quarkus.io/guides/getting-started-guide).
 
